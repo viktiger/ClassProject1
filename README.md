@@ -1,6 +1,6 @@
 # ClassTest
 
-Each notebook can run independently, only the final notebooks of each section is merged to main
+Each notebook can run independently
 
 Main Branch contains:
 - Powerpoint presentation
